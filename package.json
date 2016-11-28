@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "ventes privees description",
   "cozy-displayName": "Vente Privées",
-  "cozy-color": "#3BDA6C",
+  "cozy-color": "#FFFFFF",
   "icon-path": "public/logo-ventesprivees.png",
   "author": "Cozy Cloud <contact@cozycloud.cc> (https://cozy.io/)",
   "repository": {
