@@ -1,0 +1,20 @@
+{
+  "name": "ventesprivees",
+  "version": "1.0.0",
+  "description": "ventes privees description",
+  "cozy-displayName": "Vente Privées",
+  "cozy-color": "#3BDA6C",
+  "icon-path": "public/logo-ventesprivees.png",
+  "author": "Cozy Cloud <contact@cozycloud.cc> (https://cozy.io/)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jsilvestre/fake-ventesprivees.git"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "cozy-permissions": {},
+  "dependencies": {
+    "express": "4.13.4"
+  }
+}
